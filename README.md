@@ -74,12 +74,11 @@ I am an **AI Automation & Software Solutions Specialist** and the Founder of **[
 
 | System / Project | Category | Architecture & Key Highlights |
 | :--- | :--- | :--- |
-| **🧠 24/7 Multi-Agent AI Orchestrator** | `Agentic AI` `Cloud` | Master Orchestrator managing **6 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, Commercial Client Hunter & QA Evaluator*) with automated daily Telegram briefings. |
-| **📢 Be Smart With AI — Auto-Poster Engine** | `Marketing AI` `CI/CD` | Fully autonomous social media pipeline powered by **GitHub Actions & LLMs** that researches topics, generates bilingual tech content & visuals, and publishes directly via Meta Graph API. |
-| **🏫 Madrasah Management SaaS (ERP)** | `Full-Stack SaaS` | Comprehensive institutional management platform featuring student admissions, automated monthly fee & accounting ledger, exam result processing, and role-based dashboards. |
-| **🛡️ PureView AI — Smart Android Shield** | `Android` `AI Vision` | Native Android application utilizing **Blur-First Architecture** and real-time on-device face/content AI detection for safe, distraction-free browsing across video & social platforms. |
-| **🖥️ Ahmad — Personal PC Control Agent** | `System Automation` | Background daemon & Telegram command center capable of executing system diagnostics, managing local workflows, and automating desktop tasks remotely. |
-| **🌐 Smart Utility PWA Suite** | `Web Apps` `PWA` | Mobile-first Progressive Web Applications including **FirstAid AI** (Emergency Medical Guide), **ZeroWasteChef** (Smart Recipe Generator), and **WattSaver** (Energy & Bill Optimizer). |
+| **[🧠 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | `Agentic AI` `Cloud` | Master Orchestrator managing **6 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, Commercial Client Hunter & QA Evaluator*) with automated daily Telegram briefings. |
+| **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | `Full-Stack SaaS` | Comprehensive institutional ERP featuring student admissions, automated monthly fee & accounting ledger, exam result processing, and role-based dashboards. |
+| **[📢 Be Smart With AI Auto-Poster](https://github.com/Jubayer-ahamed42/BeSmart-Social-AI-Automation)** | `Marketing AI` `CI/CD` | Fully autonomous social media pipeline powered by **GitHub Actions & LLMs** that researches topics, generates bilingual tech content & visuals, and publishes directly via Meta Graph API. |
+| **[🛡️ PureView AI — Android Shield](https://github.com/Jubayer-ahamed42/PureView-AI-Android)** | `Android` `AI Vision` | Native Android application utilizing **Blur-First Architecture** and real-time on-device face/content AI detection for safe, distraction-free browsing across video & social platforms. |
+| **[🌐 Smart Utility PWA Suite](https://github.com/Jubayer-ahamed42/Smart-Utility-PWA-Suite)** | `Web Apps` `PWA` | Mobile-first Progressive Web Applications including **FirstAid AI** (Emergency Medical Guide), **ZeroWasteChef** (Smart Recipe Generator), and **WattSaver** (Energy & Bill Optimizer). |
 
 ---
 
