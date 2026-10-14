@@ -11,17 +11,17 @@
 
   <!-- Direct Connect / Social Badges -->
   <p align="center">
-    <a href="https://www.facebook.com/besmartwithaipro" target="_blank">
-      <img src="https://img.shields.io/badge/Be_Smart_With_AI-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Page" />
+    <a href="https://www.linkedin.com/in/jubayer-ahamed-pro/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
     <a href="https://wa.me/8801610594042" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="https://www.facebook.com/jubayer.ahamed.129258" target="_blank">
-      <img src="https://img.shields.io/badge/Jubayer_Ahamed-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
+    <a href="https://www.facebook.com/besmartwithaipro" target="_blank">
+      <img src="https://img.shields.io/badge/Be_Smart_With_AI-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Page" />
     </a>
-    <a href="mailto:sbmc4042@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:jubayer.ahamed.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Developer_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -74,11 +74,12 @@ I am an **AI Automation & Software Solutions Specialist** and the Founder of **[
 
 | System / Project | Category | Architecture & Key Highlights |
 | :--- | :--- | :--- |
-| **[🧠 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | `Agentic AI` `Cloud` | Master Orchestrator managing **6 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, Commercial Client Hunter & QA Evaluator*) with automated daily Telegram briefings. |
-| **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | `Full-Stack SaaS` | Comprehensive institutional ERP featuring student admissions, automated monthly fee & accounting ledger, exam result processing, and role-based dashboards. |
-| **[📢 Be Smart With AI Auto-Poster](https://github.com/Jubayer-ahamed42/BeSmart-Social-AI-Automation)** | `Marketing AI` `CI/CD` | Fully autonomous social media pipeline powered by **GitHub Actions & LLMs** that researches topics, generates bilingual tech content & visuals, and publishes directly via Meta Graph API. |
-| **[🛡️ PureView AI — Android Shield](https://github.com/Jubayer-ahamed42/PureView-AI-Android)** | `Android` `AI Vision` | Native Android application utilizing **Blur-First Architecture** and real-time on-device face/content AI detection for safe, distraction-free browsing across video & social platforms. |
-| **[🌐 Smart Utility PWA Suite](https://github.com/Jubayer-ahamed42/Smart-Utility-PWA-Suite)** | `Web Apps` `PWA` | Mobile-first Progressive Web Applications including **FirstAid AI** (Emergency Medical Guide), **ZeroWasteChef** (Smart Recipe Generator), and **WattSaver** (Energy & Bill Optimizer). |
+| **[🚀 LinkedIn B2B Client Engine](https://github.com/Jubayer-ahamed42/linkedin-b2b-automation)** | B2B AI Automation | Autonomous B2B client acquisition & thought-leadership engine built for **Be Smart With AI**. Powered by **Gemini AI & Buffer Partner API** to research, craft, and auto-publish conversion case studies. |
+| **[🧠 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | Agentic AI Cloud | Master Orchestrator managing **6 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, Commercial Client Hunter & QA Evaluator*) with automated daily Telegram briefings. |
+| **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | Full-Stack SaaS | Comprehensive institutional ERP featuring student admissions, automated monthly fee & accounting ledger, exam result processing, and role-based dashboards. |
+| **[📢 Be Smart With AI Auto-Poster](https://github.com/Jubayer-ahamed42/BeSmart-Social-AI-Automation)** | Marketing AI CI/CD | Fully autonomous social media pipeline powered by **GitHub Actions & LLMs** that researches topics, generates bilingual tech content & visuals, and publishes directly via Meta Graph API. |
+| **[🛡️ PureView AI — Android Shield](https://github.com/Jubayer-ahamed42/PureView-AI-Android)** | Android AI Vision | Native Android application utilizing **Blur-First Architecture** and real-time on-device face/content AI detection for safe, distraction-free browsing across video & social platforms. |
+| **[🌐 Smart Utility PWA Suite](https://github.com/Jubayer-ahamed42/Smart-Utility-PWA-Suite)** | Web Apps PWA | Mobile-first Progressive Web Applications including **FirstAid AI** (Emergency Medical Guide), **ZeroWasteChef** (Smart Recipe Generator), and **WattSaver** (Energy & Bill Optimizer). |
 
 ---
 
@@ -94,9 +95,10 @@ I am an **AI Automation & Software Solutions Specialist** and the Founder of **[
 
 Looking to automate your business operations, build a custom AI agent, or launch a modern web/mobile software platform? Feel free to reach out directly:
 
+- 💼 **LinkedIn Profile:** [linkedin.com/in/jubayer-ahamed-pro](https://www.linkedin.com/in/jubayer-ahamed-pro/)
 - 💬 **WhatsApp Business:** [+880 1610-594042](https://wa.me/8801610594042)
 - 🌐 **Official Page:** [Be Smart With AI (@besmartwithaipro)](https://www.facebook.com/besmartwithaipro)
-- 📧 **Email:** [sbmc4042@gmail.com](mailto:sbmc4042@gmail.com)
+- 📧 **Developer Email:** [jubayer.ahamed.dev@gmail.com](mailto:jubayer.ahamed.dev@gmail.com)
 
 <div align="center">
   <sub>⚡ Crafted with precision by <b>Jubayer Ahamed</b> | Founder, <b>Be Smart With AI</b></sub>
