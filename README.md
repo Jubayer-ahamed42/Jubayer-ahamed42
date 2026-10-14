@@ -20,6 +20,9 @@
     <a href="https://www.facebook.com/besmartwithaipro" target="_blank">
       <img src="https://img.shields.io/badge/Be_Smart_With_AI-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Page" />
     </a>
+    <a href="https://www.facebook.com/jubayer.ahamed.129258" target="_blank">
+      <img src="https://img.shields.io/badge/Personal_Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
+    </a>
     <a href="mailto:jubayer.ahamed.dev@gmail.com">
       <img src="https://img.shields.io/badge/Developer_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -61,6 +64,7 @@ I am an **AI Automation & Software Solutions Specialist** and the Founder of **[
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAI_%26_Gemini_LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_DeepMind_Gemma_4-8A2BE2?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-00A67E?style=flat-square&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer_Vision_%26_MediaPipe-00758F?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram_%26_Meta_APIs-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
@@ -74,6 +78,7 @@ I am an **AI Automation & Software Solutions Specialist** and the Founder of **[
 
 | System / Project | Category | Architecture & Key Highlights |
 | :--- | :--- | :--- |
+| **[⚡ Gemma 4 Local AI Workspace](https://github.com/Jubayer-ahamed42/gemma4-local-ai-workspace)** | Edge AI Google Gemma | Lightweight (30 KB), privacy-first, zero-dependency offline web dashboard with **Bengali voice recognition (n-BD)** running Google Gemma 4 on consumer CPUs with zero internet. |
 | **[🚀 LinkedIn B2B Client Engine](https://github.com/Jubayer-ahamed42/linkedin-b2b-automation)** | B2B AI Automation | Autonomous B2B client acquisition & thought-leadership engine built for **Be Smart With AI**. Powered by **Gemini AI & Buffer Partner API** to research, craft, and auto-publish conversion case studies. |
 | **[🧠 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | Agentic AI Cloud | Master Orchestrator managing **6 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, Commercial Client Hunter & QA Evaluator*) with automated daily Telegram briefings. |
 | **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | Full-Stack SaaS | Comprehensive institutional ERP featuring student admissions, automated monthly fee & accounting ledger, exam result processing, and role-based dashboards. |
@@ -98,6 +103,7 @@ Looking to automate your business operations, build a custom AI agent, or launch
 - 💼 **LinkedIn Profile:** [linkedin.com/in/jubayer-ahamed-pro](https://www.linkedin.com/in/jubayer-ahamed-pro/)
 - 💬 **WhatsApp Business:** [+880 1610-594042](https://wa.me/8801610594042)
 - 🌐 **Official Page:** [Be Smart With AI (@besmartwithaipro)](https://www.facebook.com/besmartwithaipro)
+- 👤 **Personal Facebook:** [facebook.com/jubayer.ahamed.129258](https://www.facebook.com/jubayer.ahamed.129258)
 - 📧 **Developer Email:** [jubayer.ahamed.dev@gmail.com](mailto:jubayer.ahamed.dev@gmail.com)
 
 <div align="center">
