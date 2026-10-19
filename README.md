@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://github.com/Jubayer-ahamed42">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Jubayer+Ahamed;AI+Automation+%26+Software+Solutions+Specialist;Founder+%40+Be+Smart+With+AI+%F0%9F%9A%80;Architecting+Multi-Agent+AI+%26+Full-Stack+SaaS+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Jubayer+Ahamed;AI+Automation+%26+Software+Solutions+Specialist;Founder+%40+Be+Smart+With+AI+%F0%9F%9A%80;Architecting+Autonomous+AI+Agents+%26+Full-Stack+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -34,12 +34,12 @@
 
 ### 👨‍💻 Executive Summary
 
-I am an **AI Automation & Software Solutions Specialist** and the Founder of **[Be Smart With AI](https://www.facebook.com/besmartwithaipro)** based in Bangladesh. I specialize in designing, engineering, and deploying **Autonomous Multi-Agent AI Systems**, **Business Process Automations**, and **Production-Grade Web & Mobile Applications** that save time, eliminate repetitive errors, and scale business operations.
+I am an **AI Automation & Software Solutions Specialist** and the Founder of **[Be Smart With AI](https://www.facebook.com/besmartwithaipro)** based in Bangladesh. I specialize in designing, engineering, and deploying **Autonomous Multi-Agent AI Systems**, **Sovereign Cloud & DevOps Infrastructure**, and **Production-Grade Web & Mobile Applications** that eliminate manual repetition and scale commercial enterprises.
 
-- 🤖 **Agentic AI Engineering:** Custom 24/7 AI Agents, Telegram/WhatsApp Bots, Automated Lead Hunters & Research Orchestrators.
-- 📈 **Business & Sales Automation:** Meta/Social Media Auto-Publishing Pipelines, AI Customer Support, CRM & Workflow Automation.
-- 🏢 **Custom SaaS & ERP Development:** Scalable Management Software for Educational Institutions, E-Commerce & Commercial Enterprises.
-- 📱 **Full-Stack Web & Mobile Apps:** High-performance Android Applications, Progressive Web Apps (PWAs) & Modern Dashboards.
+- 🤖 **Agentic AI Engineering:** Autonomous 24/7 Multi-Agent Orchestrators, Telegram/WhatsApp Sales Bots, OpenClaw & OmniRoute Gateways.
+- 📈 **B2B & Sales Automation:** Social Media Auto-Publishing Engines, Real-Time Conversational AI Sales Brains, Omnichannel CRM Sync.
+- 🏢 **Enterprise SaaS & Web Platforms:** Hardened E-Commerce Platforms (COD + Google Sheets Dual-Sync), Institutional ERPs (Madrasah/School).
+- 🐧 **Sovereign DevOps & Self-Hosting:** Linux VPS Infrastructure, Docker Orchestration, Coolify PaaS & Self-Hosted AI Gateways.
 
 ---
 
@@ -47,50 +47,56 @@ I am an **AI Automation & Software Solutions Specialist** and the Founder of **[
 
 | Domain | Core Capabilities & Deliverables |
 | :--- | :--- |
-| **🤖 Autonomous AI Agents** | Multi-Agent Orchestrators, Commercial Lead & Business X-Ray Agents, PC/Cloud Control Bots, RAG Knowledge Systems |
-| **🔄 Workflow & Marketing Automation** | End-to-End Social Media Content & Image Generation Pipelines, Auto-CRM Sync, 24/7 Smart Auto-Responders |
-| **💻 Enterprise SaaS & Web Systems** | Institutional ERP (Madrasah/School Management), Financial & Fee Tracking Dashboards, Custom Business Portals |
-| **📱 Smart Mobile & Vision Apps** | Real-Time On-Device AI Vision Filtering (Android), Offline-First PWAs, Responsive Cross-Platform Interfaces |
+| **🤖 Autonomous AI Agents** | Multi-Agent Orchestrators, Multi-Channel Gateways (OpenClaw, OmniRoute), Headless Cloud Daemons, RAG Knowledge Bases |
+| **🔄 B2B Sales & Marketing Automation** | Automated Social Content Generation Pipelines, Real-Time Smartphone AI Sales Simulators, Auto-CRM & Order Sync |
+| **💻 Enterprise SaaS & E-Commerce** | Production E-Commerce Storefronts, Hardened Webhooks (Strix OWASP Security Verified), Institutional ERP Solutions |
+| **📱 Mobile & Edge AI Systems** | On-Device AI Vision Media Shields (Android), Offline-First PWAs, Low-Latency Local LLM Inference (Gemma 4, Qwen 2.5) |
 
 ---
 
 ### 🛠️ Tech Stack & Engineering Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nextjs,tailwind,html,css,android,postgres,sqlite,docker,git,githubactions,vscode&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,nodejs,react,nextjs,tailwind,html,css,android,postgres,sqlite,docker,linux,ubuntu,git,githubactions,vscode&perline=9" alt="Tech Stack Icons" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAI_%26_Gemini_LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_DeepMind_Gemma_4-8A2BE2?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-00A67E?style=flat-square&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision_%26_MediaPipe-00758F?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alibaba_Qwen_2.5-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coolify_PaaS_Cloud-6B21A8?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OmniRoute_AI_Gateway-0284C7?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenClaw_Autonomous_Agents-10B981?style=flat-square&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram_%26_Meta_APIs-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Deployment_(Render_%2F_VPS)-46E3B7?style=flat-square&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/RESTful_APIs_%26_Webhooks-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_Security_Hardened-DC2626?style=flat-square&logo=securityscorecard&logoColor=white" />
 </div>
 
 ---
 
-### 🚀 Featured Systems & Flagship Projects
+### 🚀 Featured Flagship Systems & Open-Source Projects
 
-| System / Project | Category | Architecture & Key Highlights |
+| System / Project | Domain | Architecture & Key Highlights |
 | :--- | :--- | :--- |
-| **[⚡ Gemma 4 Local AI Workspace](https://github.com/Jubayer-ahamed42/gemma4-local-ai-workspace)** | Edge AI Google Gemma | Lightweight (30 KB), privacy-first, zero-dependency offline web dashboard with **Bengali voice recognition (n-BD)** running Google Gemma 4 on consumer CPUs with zero internet. |
-| **[🚀 LinkedIn B2B Client Engine](https://github.com/Jubayer-ahamed42/linkedin-b2b-automation)** | B2B AI Automation | Autonomous B2B client acquisition & thought-leadership engine built for **Be Smart With AI**. Powered by **Gemini AI & Buffer Partner API** to research, craft, and auto-publish conversion case studies. |
-| **[🧠 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | Agentic AI Cloud | Master Orchestrator managing **6 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, Commercial Client Hunter & QA Evaluator*) with automated daily Telegram briefings. |
-| **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | Full-Stack SaaS | Comprehensive institutional ERP featuring student admissions, automated monthly fee & accounting ledger, exam result processing, and role-based dashboards. |
-| **[📢 Be Smart With AI Auto-Poster](https://github.com/Jubayer-ahamed42/BeSmart-Social-AI-Automation)** | Marketing AI CI/CD | Fully autonomous social media pipeline powered by **GitHub Actions & LLMs** that researches topics, generates bilingual tech content & visuals, and publishes directly via Meta Graph API. |
+| **[🧬 Social Humanizer (v0.2.0)](https://github.com/Jubayer-ahamed42/social-humanizer)** | Open Source PyPI | Universal AI Social Media Humanizer & Algorithmic Risk Auditor. Strips robotic AI clichés, enforces natural burstiness, and audits reach penalties across Facebook, LinkedIn, X, Threads, and Instagram. |
+| **[🌿 Freshy Food E-Commerce](https://github.com/Jubayer-ahamed42/freshy-food)** | Full-Stack Commerce | High-converting organic food storefront featuring 1-Click COD checkout, live admin dashboard, WebP media optimization (<380KB), and Strix OWASP-hardened Google Apps Script dual-sync backend. |
+| **[🚀 LinkedIn B2B Client Engine](https://github.com/Jubayer-ahamed42/linkedin-b2b-automation)** | B2B Marketing AI | Autonomous thought-leadership & client acquisition pipeline for **Be Smart With AI**. Powered by Gemini AI & Buffer Partner API to research, craft, and auto-publish conversion case studies. |
+| **[🧠 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | Agentic AI Cloud | Master Orchestrator managing **6 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, Commercial Client Hunter & QA Evaluator*) with automated Telegram briefings. |
+| **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | Full-Stack SaaS | Comprehensive institutional ERP featuring student admissions, automated monthly fee accounting ledger, exam result processing, and role-based staff dashboards. |
+| **[📢 Be Smart With AI Auto-Poster](https://github.com/Jubayer-ahamed42/BeSmart-Social-AI-Automation)** | Marketing AI CI/CD | Fully autonomous social media pipeline powered by **GitHub Actions & LLMs** that researches topics, generates bilingual tech content & branded visuals, and publishes via Meta Graph API. |
+| **[⚡ Gemma 4 Local AI Workspace](https://github.com/Jubayer-ahamed42/gemma4-local-ai-workspace)** | Edge AI / Ollama | Lightweight (30 KB), zero-dependency offline web dashboard with **Bengali voice recognition (bn-BD)** running Google Gemma 4 on consumer CPUs with zero internet. |
 | **[🛡️ PureView AI — Android Shield](https://github.com/Jubayer-ahamed42/PureView-AI-Android)** | Android AI Vision | Native Android application utilizing **Blur-First Architecture** and real-time on-device face/content AI detection for safe, distraction-free browsing across video & social platforms. |
-| **[🌐 Smart Utility PWA Suite](https://github.com/Jubayer-ahamed42/Smart-Utility-PWA-Suite)** | Web Apps PWA | Mobile-first Progressive Web Applications including **FirstAid AI** (Emergency Medical Guide), **ZeroWasteChef** (Smart Recipe Generator), and **WattSaver** (Energy & Bill Optimizer). |
 
 ---
 
-### 📊 GitHub Activity & Contribution Streak
+### 📊 GitHub Activity & Real-Time Engineering Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-ahamed42&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-ahamed42&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" height="165" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
   <img src="https://streak-stats.demolab.com?user=Jubayer-ahamed42&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </div>
 
@@ -98,14 +104,14 @@ I am an **AI Automation & Software Solutions Specialist** and the Founder of **[
 
 ### 🤝 Let's Build Your Next Intelligent System
 
-Looking to automate your business operations, build a custom AI agent, or launch a modern web/mobile software platform? Feel free to reach out directly:
+Looking to automate your business operations, build a custom AI agent, or launch a production software platform? Let's connect:
 
 - 💼 **LinkedIn Profile:** [linkedin.com/in/jubayer-ahamed-pro](https://www.linkedin.com/in/jubayer-ahamed-pro/)
-- 💬 **WhatsApp Business:** [+880 1610-594042](https://wa.me/8801610594042)
-- 🌐 **Official Page:** [Be Smart With AI (@besmartwithaipro)](https://www.facebook.com/besmartwithaipro)
+- 💬 **WhatsApp Direct:** [+880 1610-594042](https://wa.me/8801610594042)
+- 🌐 **Agency Page:** [Be Smart With AI (@besmartwithaipro)](https://www.facebook.com/besmartwithaipro)
 - 👤 **Personal Facebook:** [facebook.com/jubayer.ahamed.129258](https://www.facebook.com/jubayer.ahamed.129258)
 - 📧 **Developer Email:** [jubayer.ahamed.dev@gmail.com](mailto:jubayer.ahamed.dev@gmail.com)
 
 <div align="center">
-  <sub>⚡ Crafted with precision by <b>Jubayer Ahamed</b> | Founder, <b>Be Smart With AI</b></sub>
+  <sub>⚡ Architected with precision by <b>Jubayer Ahamed</b> | Founder, <b>Be Smart With AI</b></sub>
 </div>
