@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jubayer Ahamed
+#  Hi, I'm Jubayer Ahamed
 ### AI Automation & Software Solutions Specialist | Founder @ Be Smart With AI
 **Architecting Autonomous Multi-Agent Systems, Cloud Infrastructure & Production-Grade SaaS**
 
