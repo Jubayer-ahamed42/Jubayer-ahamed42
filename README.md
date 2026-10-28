@@ -1,16 +1,19 @@
 <div align="center">
 
   <!-- Executive Tech Founder Dynamic Header -->
-  <a href="https://github.com/Jubayer-ahamed42">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Jubayer+Ahamed;Founder+%26+Chief+Architect+%40+Be+Smart+With+AI;Commercial+AI+Automation+%26+Autonomous+Agents;Engineering+Scalable+Software+%26+Enterprise+SaaS" alt="Typing SVG Header" />
+  <a href="https://jubayer-ahamed42.github.io/besmartwithai-agency/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Jubayer+Ahamed;INTJ+Solutions+Architect+%26+Full-Stack+Engineer;Architecting+Autonomous+AI+%26+High-ROI+Software;Founder+%40+Be+Smart+With+AI+%C2%B7+Available+Globally" alt="Typing SVG Header" />
   </a>
 
   <p align="center">
-    <b>Turning manual business repetition into scalable, automated commercial intelligence.</b>
+    <b>Architecting autonomous AI & high-ROI software that eliminates business bottlenecks.</b>
   </p>
 
-  <!-- Verified Founder Connect Badges -->
+  <!-- Verified Founder Connect & Portfolio Badges -->
   <p align="center">
+    <a href="https://jubayer-ahamed42.github.io/besmartwithai-agency/" target="_blank">
+      <img src="https://img.shields.io/badge/Official_Portfolio-Live_Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
+    </a>
     <a href="https://www.linkedin.com/in/jubayer-ahamed-pro/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn_Executive-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -19,9 +22,6 @@
     </a>
     <a href="https://www.facebook.com/besmartwithaipro" target="_blank">
       <img src="https://img.shields.io/badge/Agency_Headquarters-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Agency" />
-    </a>
-    <a href="https://www.facebook.com/jubayer.ahamed.129258" target="_blank">
-      <img src="https://img.shields.io/badge/Personal_Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
     </a>
     <a href="mailto:jubayer.ahamed.dev@gmail.com">
       <img src="https://img.shields.io/badge/Direct_Consultation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -32,19 +32,31 @@
 
 ---
 
-### 💼 Executive Bio & Commercial Philosophy
+### 💼 Executive Bio & Architectural Philosophy
 
-I am an **AI Systems Architect** and the Founder of **[Be Smart With AI](https://www.facebook.com/besmartwithaipro)** based in Bangladesh. My work focuses on designing, building, and deploying **Autonomous Agentic Systems**, **Sovereign Cloud Infrastructure**, and **Production-Grade Commercial Software** that solve real economic bottlenecks.
+I am **Jubayer Ahamed**—an **INTJ Solutions Architect**, **Full-Stack Systems Engineer**, and **Technical Mentor** based in Dhaka, Bangladesh. I am the Founder and Lead AI Solutions Architect at **[Be Smart With AI](https://www.facebook.com/besmartwithaipro)**.
 
-I partner with forward-thinking e-commerce founders, business owners, and academic institutions to replace manual, repetitive workflows with self-operating digital engines. From capturing high-intent midnight orders with conversational AI to automating multi-agent intelligence and institutional ERP accounting, every system is engineered for maximum reliability, speed, and undeniable commercial return on investment.
+I bridge commercial strategy and production engineering: designing, building, and deploying 24/7 autonomous agent swarms, sovereign cloud infrastructure, and high-ROI software architectures that turn operational chaos into predictable business growth.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  "The highest return on software engineering is an autonomous system that   │
-│   operates reliably in the background, transforming customer inquiries into │
-│   confirmed revenue while the founder sleeps."                              │
+│  "I don't build software that adds more work to your plate.                 │
+│   I engineer autonomous agents that eliminate repetitive labor             │
+│   so you can focus on high-leverage strategy."                              │
+│                                                             — Jubayer Ahamed│
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+### 🏛️ The 4 Core Architectural Pillars
+
+| Core Pillar | Strategic Focus & Production Deliverables |
+| :--- | :--- |
+| **✦ Business Problem Solver** | Translating operational bottlenecks, leaking sales funnels, and manual overhead into high-ROI architectural blueprints. Designing zero-maintenance automated business pipelines. |
+| **🤖 AI Automation Specialist** | Deploying 24/7 autonomous agent swarms, WhatsApp sales bots, RAG pipelines, and automated CRM workflows that eliminate human fatigue and capture high-intent midnight revenue. |
+| **💻 Full-Stack Systems Engineer** | Hardened Linux infrastructure (VPS/Coolify PaaS), production databases, resilient APIs (FastAPI/Node), and intuitive UI/UX. Ensuring AI runs on unshakeable, enterprise-grade foundations. |
+| **🎓 Educator & Technical Mentor** | Demystifying bleeding-edge AI for business owners, upskilling internal teams for seamless adoption, and cultivating the next generation of builders with hands-on technical clarity. |
 
 ---
 
@@ -55,19 +67,6 @@ I partner with forward-thinking e-commerce founders, business owners, and academ
 | **🚀 +35% Midnight Sales Capture** | In Bangladesh, over 35% of customer buying inquiries occur between 11:00 PM and 2:00 AM. Our **B2B AI Sales Engine** engages customers instantly in natural Bengali, validates 11-digit phone numbers, and records cash-on-delivery orders without requiring client admin credentials. |
 | **💰 Zero Monthly SaaS Overhead** | Eliminating recurring subscription bloat. Our architectures leverage lifetime free **Google Apps Script dual-sync**, self-hosted **Linux VPS / Coolify PaaS**, and lightweight open-source models, allowing businesses to scale without monthly software taxes. |
 | **🛡️ 100% Data Sovereignty & Security** | Deploying sovereign, air-gapped environments—from on-device AI vision media shields (**PureView AI**) and offline Google Gemma 4 speech workspaces to **Strix OWASP-hardened backends** immune to spreadsheet formula injections (CWE-1236). |
-
----
-
-### ⚡ What I Architect & Deliver
-
-| Core Capability | Commercial Deliverables & Architecture |
-| :--- | :--- |
-| **🤖 Autonomous AI Agents & Gateways** | Multi-Agent Orchestrators, OmniRoute universal gateway, OpenClaw multi-channel daemons, Telegram/WhatsApp sales closers, RAG knowledge bases, persistent SQLite memory engines. |
-| **🔄 B2B Conversational Commerce** | Interactive smartphone sandboxes, zero-dependency sales brains, Bangladeshi 11-digit phone validation, live real-time COD order ledgers, and proven cold outreach playbooks. |
-| **💻 Enterprise SaaS & Full-Stack Web** | Modern Next.js 14 & TypeScript institutional ERPs, Supabase PostgreSQL schemas, dual-copy print engines, Bengali currency-in-words generators, and role-based access control. |
-| **🌿 Secure E-Commerce Architectures** | High-converting 1-click COD storefronts, Strix OWASP-hardened backends (CWE-1236 formula injection defense, honeypot traps), and lifetime free Google Apps Script dual-sync. |
-| **📱 Edge AI & Mobile Applications** | Single-file 30KB offline Google Gemma 4 workspaces, browser-native Bengali voice recognition (`bn-BD`), on-device computer vision shields, and offline-first PWAs. |
-| **🛡️ Algorithmic Auditing & Open-Source** | Published PyPI libraries (`social-humanizer`), Rich terminal dashboard analytics, mathematical burstiness calculators ($\text{CV} = \sigma / \mu$), and anti-AI detection compliance. |
 
 ---
 
@@ -92,12 +91,13 @@ I partner with forward-thinking e-commerce founders, business owners, and academ
 
 ---
 
-### 🚀 Enterprise Flagship Systems & Open-Source Portfolio
+### 🚀 Enterprise Flagship Systems & Portfolio Showcase
 
 | System / Project | Domain & Stack | Commercial & Technical Highlights |
 | :--- | :--- | :--- |
+| **[🌐 Jubayer Ahamed Portfolio Website](https://github.com/Jubayer-ahamed42/besmartwithai-agency)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/besmartwithai-agency/) | Official Brand Portal &middot; HTML5 / Tailwind / Vanilla JS | High-performance executive personal portfolio and AI solutions showcase. Built with dynamic 2D cursor physics, dual-layer ambient lighting, zero-dependency modal architecture, and 14 production case studies. |
 | **[📱 B2B AI Sales Engine & Demo Sandbox](https://github.com/Jubayer-ahamed42/b2b-ai-sales-engine)** | Conversational Commerce &middot; Python | Real-time conversational AI sales brain & interactive smartphone simulator (WhatsApp/Messenger style). Validates BD 11-digit phone numbers, answers product catalogs, and automates instant cash-on-delivery (COD) order extraction with zero external dependencies. |
-| **[🧬 Social Humanizer (PyPI Package v0.2.0)](https://github.com/Jubayer-ahamed42/social-humanizer)** | Open Source &middot; Python / PyPI | Universal AI Social Media Humanizer & Algorithmic Risk Auditor. Strips robotic AI clichés, enforces natural burstiness ($\text{CV} = \sigma / \mu$), and audits reach suppression rules across Facebook, LinkedIn, X, Threads, and Instagram. Built with Rich CLI and Gradio Web Demo. |
+| **[🧬 Social Humanizer (PyPI Package v0.2.0)](https://github.com/Jubayer-ahamed42/social-humanizer)** | Open Source &middot; Python / PyPI | Universal AI Social Media Humanizer & Algorithmic Risk Auditor. Strips robotic AI clichés, enforces natural burstiness ($\\text{CV} = \\sigma / \\mu$), and audits reach suppression rules across Facebook, LinkedIn, X, Threads, and Instagram. Built with Rich CLI and Gradio Web Demo. |
 | **[🌿 Freshy Food E-Commerce](https://github.com/Jubayer-ahamed42/freshy-food)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/freshy-food/) | E-Commerce &middot; Vanilla JS / Tailwind | High-converting organic health food storefront with 1-Click COD checkout, live admin dashboard, embedded Bengali AI Nutritionist chatbot, and Strix OWASP-hardened Google Apps Script dual-sync backend. |
 | **[🤖 24/7 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | Agentic AI Cloud &middot; Python / Docker | Enterprise-grade cloud architecture managing **7 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, ClientHunter, Smart Sales Closer & QA Evaluator*) with real-time Telegram Command Center & SQLite memory. |
 | **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | Institutional ERP &middot; Next.js 14 / Supabase | Comprehensive institutional ERP featuring student admissions, automated fee accounting ledger, custom Bengali currency-in-words engine, dual-copy printable money receipts, and role-based staff dashboards. |
@@ -122,10 +122,10 @@ I partner with forward-thinking e-commerce founders, business owners, and academ
 
 Whether you are looking to deploy an autonomous conversational sales brain, eliminate manual operational overhead, or architect a custom software platform—let's connect:
 
+- 🌐 **Official Portfolio Website:** [jubayer-ahamed42.github.io/besmartwithai-agency](https://jubayer-ahamed42.github.io/besmartwithai-agency/)
 - 💼 **LinkedIn Executive:** [linkedin.com/in/jubayer-ahamed-pro](https://www.linkedin.com/in/jubayer-ahamed-pro/)
 - 💬 **WhatsApp Direct:** [+880 1610-594042](https://wa.me/8801610594042)
-- 🌐 **Agency Headquarters:** [Be Smart With AI (@besmartwithaipro)](https://www.facebook.com/besmartwithaipro)
-- 👤 **Personal Facebook:** [facebook.com/jubayer.ahamed.129258](https://www.facebook.com/jubayer.ahamed.129258)
+- 🏢 **Agency Headquarters:** [Be Smart With AI (@besmartwithaipro)](https://www.facebook.com/besmartwithaipro)
 - 📧 **Direct Developer Email:** [jubayer.ahamed.dev@gmail.com](mailto:jubayer.ahamed.dev@gmail.com)
 
 <div align="center">
