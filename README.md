@@ -19,7 +19,7 @@
   <!-- Verified Founder Connect & Direct Consultation Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/jubayer-ahamed-pro/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn_Executive-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn_Executive-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yVjEwLjlINi40Nk03LjgzIDYuNDVhMS42NCAxLjY0IDAgMCAwLTEuNjQgMS42MyAxLjY0IDEuNjQgMCAwIDAgMS42NCAxLjYzIDEuNjQgMS42NCAwIDAgMCAxLjYzLTEuNjNjMC0uOS0uNzMtMS42My0xLjYzLTEuNjNaIi8%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://wa.me/8801610594042" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -32,11 +32,22 @@
     </a>
   </p>
 
+  <!-- Executive Section Navigation Bar -->
+  <p align="center">
+    <a href="#bio"><code>Bio &amp; Philosophy</code></a> &nbsp;&bull;&nbsp;
+    <a href="#pillars"><code>4 Pillars</code></a> &nbsp;&bull;&nbsp;
+    <a href="#impact"><code>Commercial Impact</code></a> &nbsp;&bull;&nbsp;
+    <a href="#stack"><code>Tech Arsenal</code></a> &nbsp;&bull;&nbsp;
+    <a href="#systems"><code>Flagship Showcase</code></a> &nbsp;&bull;&nbsp;
+    <a href="#telemetry"><code>Telemetry</code></a> &nbsp;&bull;&nbsp;
+    <a href="#consultation"><code>Consultation</code></a>
+  </p>
+
 </div>
 
 ---
 
-### 💼 Executive Bio & Architectural Philosophy
+### <a id="bio"></a>💼 Executive Bio & Architectural Philosophy
 
 I am **Jubayer Ahamed**—an **INTJ Solutions Architect**, **Full-Stack Systems Engineer**, and **Technical Mentor** based in Dhaka, Bangladesh. I am the Founder and Lead AI Solutions Architect at **[Be Smart With AI](https://www.facebook.com/besmartwithaipro)**.
 
@@ -53,7 +64,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### 🏛️ The 4 Core Architectural Pillars
+### <a id="pillars"></a>🏛️ The 4 Core Architectural Pillars
 
 | Core Pillar | Strategic Focus & Production Deliverables |
 | :--- | :--- |
@@ -64,7 +75,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### 📈 Proven Commercial Value & Real-World Impact
+### <a id="impact"></a>📈 Proven Commercial Value & Real-World Impact
 
 | Strategic Value Metric | Real-World Business Solution |
 | :--- | :--- |
@@ -74,7 +85,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### 🛠️ Technical Stack & Engineering Arsenal
+### <a id="stack"></a>🛠️ Technical Stack & Engineering Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,nodejs,react,nextjs,tailwind,html,css,android,postgres,sqlite,docker,linux,ubuntu,bash,git,github,githubactions,postman,vscode&perline=11" alt="Tech Stack Arsenal" />
@@ -95,7 +106,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### 🚀 Enterprise Flagship Systems & Portfolio Showcase
+### <a id="systems"></a>🚀 Enterprise Flagship Systems & Portfolio Showcase
 
 | System / Project | Domain & Stack | Commercial & Technical Highlights |
 | :--- | :--- | :--- |
@@ -109,7 +120,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### 📊 GitHub Activity & Real-Time Engineering Stats
+### <a id="telemetry"></a>📊 GitHub Activity & Real-Time Engineering Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Jubayer-ahamed42&theme=tokyonight&hide_border=true&border_radius=10&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak Stats" />
@@ -129,7 +140,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### 🤝 Direct Founder Consultation & Inquiries
+### <a id="consultation"></a>🤝 Direct Founder Consultation & Inquiries
 
 Whether you are looking to deploy an autonomous conversational sales brain, eliminate manual operational overhead, or architect a custom software platform—let's connect:
 
