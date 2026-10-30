@@ -97,7 +97,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 | :--- | :--- | :--- |
 | **[🌐 Jubayer Ahamed Portfolio Website](https://github.com/Jubayer-ahamed42/besmartwithai-agency)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://jubayer-ahamed.vercel.app) | Official Brand Portal &middot; HTML5 / Tailwind / Vanilla JS | High-performance executive personal portfolio and AI solutions showcase. Built with dynamic 2D cursor physics, dual-layer ambient lighting, zero-dependency modal architecture, and 14 production case studies. |
 | **[📱 B2B AI Sales Engine & Demo Sandbox](https://github.com/Jubayer-ahamed42/b2b-ai-sales-engine)** | Conversational Commerce &middot; Python | Real-time conversational AI sales brain & interactive smartphone simulator (WhatsApp/Messenger style). Validates BD 11-digit phone numbers, answers product catalogs, and automates instant cash-on-delivery (COD) order extraction with zero external dependencies. |
-| **[🧬 Social Humanizer (PyPI Package v0.2.0)](https://github.com/Jubayer-ahamed42/social-humanizer)** | Open Source &middot; Python / PyPI | Universal AI Social Media Humanizer & Algorithmic Risk Auditor. Strips robotic AI clichés, enforces natural burstiness ($\\text{CV} = \\sigma / \\mu$), and audits reach suppression rules across Facebook, LinkedIn, X, Threads, and Instagram. Built with Rich CLI and Gradio Web Demo. |
+| **[🧬 Social Humanizer (Open-Source Python Toolkit v0.2.0)](https://github.com/Jubayer-ahamed42/social-humanizer)** | Open Source &middot; Python / CLI / Web Demo | Universal AI Social Media Humanizer & Algorithmic Risk Auditor. Strips robotic AI clichés, enforces natural burstiness ($\\text{CV} = \\sigma / \\mu$), and audits reach suppression rules across Facebook, LinkedIn, X, Threads, and Instagram. Built with Rich CLI and Gradio Web Demo. |
 | **[🌿 Freshy Food E-Commerce](https://github.com/Jubayer-ahamed42/freshy-food)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/freshy-food/) | E-Commerce &middot; Vanilla JS / Tailwind | High-converting organic health food storefront with 1-Click COD checkout, live admin dashboard, embedded Bengali AI Nutritionist chatbot, and Strix OWASP-hardened Google Apps Script dual-sync backend. |
 | **[🤖 24/7 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | Agentic AI Cloud &middot; Python / Docker | Enterprise-grade cloud architecture managing **7 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, ClientHunter, Smart Sales Closer & QA Evaluator*) with real-time Telegram Command Center & SQLite memory. |
 | **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | Institutional ERP &middot; Next.js 14 / Supabase | Comprehensive institutional ERP featuring student admissions, automated fee accounting ledger, custom Bengali currency-in-words engine, dual-copy printable money receipts, and role-based staff dashboards. |
@@ -108,12 +108,19 @@ I bridge commercial strategy and production engineering: designing, building, an
 ### 📊 GitHub Activity & Real-Time Engineering Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jubayer-ahamed42&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer-ahamed42&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=3b82f6&text_color=ffffff" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Jubayer-ahamed42&theme=tokyonight&hide_border=true&border_radius=10&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=Jubayer-ahamed42&theme=tokyonight&hide_border=true&border_radius=10&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak Stats" />
+<div align="center" style="margin-top: 14px;">
+  <a href="https://github.com/Jubayer-ahamed42?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public_Repositories-17_Active_Projects-3b82f6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Public Repositories" />
+  </a>
+  <a href="https://github.com/Jubayer-ahamed42" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Architecting_AI_Agents-10b981?style=for-the-badge&logo=probot&logoColor=white&labelColor=1a1b27" alt="Status" />
+  </a>
+  <a href="mailto:jubayer.ahamed.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Direct_Consultation-Get_In_Touch-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Consultation" />
+  </a>
 </div>
 
 ---
