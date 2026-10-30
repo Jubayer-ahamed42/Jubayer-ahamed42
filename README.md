@@ -2,7 +2,7 @@
 
   <!-- Executive Tech Founder Dynamic Header -->
   <a href="https://jubayer-ahamed.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Jubayer+Ahamed;INTJ+Solutions+Architect+%26+Full-Stack+Engineer;Architecting+Autonomous+AI+%26+High-ROI+Software;Founder+%40+Be+Smart+With+AI+%C2%B7+Available+Globally" alt="Typing SVG Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Jubayer+Ahamed;AI+Solutions+Architect+%26+Full-Stack+Engineer;Architecting+Autonomous+AI+%26+High-ROI+Software;Founder+%40+Be+Smart+With+AI+%C2%B7+Available+Globally" alt="Typing SVG Header" />
   </a>
 
   <p align="center">
@@ -38,7 +38,7 @@
 
 ### 💼 Executive Bio & Architectural Philosophy
 
-I am **Jubayer Ahamed**—an **INTJ Solutions Architect**, **Full-Stack Systems Engineer**, and **Technical Mentor** based in Dhaka, Bangladesh. I am the Founder and Lead AI Solutions Architect at **[Be Smart With AI](https://www.facebook.com/besmartwithaipro)**.
+I am **Jubayer Ahamed**—a **Solutions Architect**, **Full-Stack Systems Engineer**, and **Technical Mentor** based in Dhaka, Bangladesh. I am the Founder and Lead AI Solutions Architect at **[Be Smart With AI](https://www.facebook.com/besmartwithaipro)**.
 
 I bridge commercial strategy and production engineering: designing, building, and deploying 24/7 autonomous agent swarms, sovereign cloud infrastructure, and high-ROI software architectures that turn operational chaos into predictable business growth.
 
@@ -70,7 +70,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 | :--- | :--- |
 | **🚀 +35% Midnight Sales Capture** | In Bangladesh, over 35% of customer buying inquiries occur between 11:00 PM and 2:00 AM. Our **B2B AI Sales Engine** engages customers instantly in natural Bengali, validates 11-digit phone numbers, and records cash-on-delivery orders without requiring client admin credentials. |
 | **💰 Zero Monthly SaaS Overhead** | Eliminating recurring subscription bloat. Our architectures leverage lifetime free **Google Apps Script dual-sync**, self-hosted **Linux VPS / Coolify PaaS**, and lightweight open-source models, allowing businesses to scale without monthly software taxes. |
-| **🛡️ 100% Data Sovereignty & Security** | Deploying sovereign, air-gapped environments—from on-device AI vision media shields (**PureView AI**) and offline Google Gemma 4 speech workspaces to **Strix OWASP-hardened backends** immune to spreadsheet formula injections (CWE-1236). |
+| **🛡️ 100% Data Sovereignty & Security** | Deploying sovereign, air-gapped environments—from on-device AI vision media shields (**PureView AI**) and offline Google Gemma 2 speech workspaces to **Strix OWASP-hardened backends** immune to spreadsheet formula injections (CWE-1236). |
 
 ---
 
@@ -84,7 +84,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAI_%26_Gemini_2.0-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI & Gemini" />
-  <img src="https://img.shields.io/badge/Google_Gemma_4-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma 4" />
+  <img src="https://img.shields.io/badge/Google_Gemma_2-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma 2" />
   <img src="https://img.shields.io/badge/Alibaba_Qwen_2.5-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen 2.5" />
   <img src="https://img.shields.io/badge/Coolify_PaaS_Cloud-6B21A8?style=flat-square&logo=docker&logoColor=white" alt="Coolify PaaS" />
   <img src="https://img.shields.io/badge/OmniRoute_Gateway-0284C7?style=flat-square&logo=fastapi&logoColor=white" alt="OmniRoute" />
@@ -105,7 +105,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 | **[🌿 Freshy Food E-Commerce](https://github.com/Jubayer-ahamed42/freshy-food)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/freshy-food/) | E-Commerce &middot; Vanilla JS / Tailwind | High-converting organic health food storefront with 1-Click COD checkout, live admin dashboard, embedded Bengali AI Nutritionist chatbot, and Strix OWASP-hardened Google Apps Script dual-sync backend. |
 | **[🤖 24/7 Multi-Agent AI Orchestrator](https://github.com/Jubayer-ahamed42/Multi-Agent-AI-Orchestrator)** | Agentic AI Cloud &middot; Python / Docker | Enterprise-grade cloud architecture managing **7 specialized autonomous sub-agents** (*Research, Coding, Data Analytics, Hackathon Tracker, ClientHunter, Smart Sales Closer & QA Evaluator*) with real-time Telegram Command Center & SQLite memory. |
 | **[🏫 Madrasah Management SaaS](https://github.com/Jubayer-ahamed42/Madrasah-Management-SaaS)** | Institutional ERP &middot; Next.js 14 / Supabase | Comprehensive institutional ERP featuring student admissions, automated fee accounting ledger, custom Bengali currency-in-words engine, dual-copy printable money receipts, and role-based staff dashboards. |
-| **[⚡ Gemma 4 Local AI Workspace](https://github.com/Jubayer-ahamed42/gemma4-local-ai-workspace)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/gemma4-local-ai-workspace/) | Edge AI &middot; Single-File Web Dashboard | Lightweight (30 KB), zero-dependency offline web dashboard with **Bengali voice recognition (`bn-BD`)** running Google Gemma 4 on consumer hardware with 100% air-gapped privacy. |
+| **[⚡ Gemma 2 Local AI Workspace](https://github.com/Jubayer-ahamed42/gemma4-local-ai-workspace)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/gemma4-local-ai-workspace/) | Edge AI &middot; Single-File Web Dashboard | Lightweight (30 KB), zero-dependency offline web dashboard with **Bengali voice recognition (`bn-BD`)** running Google Gemma 2 on consumer hardware with 100% air-gapped privacy. |
 
 ---
 
