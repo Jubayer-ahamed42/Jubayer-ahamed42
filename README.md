@@ -12,42 +12,31 @@
   <!-- Executive Official Portfolio Portal -->
   <p align="center">
     <a href="https://jubayer-ahamed.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Official_Portfolio-Live_Production-3b82f6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Official Portfolio - Live Production Site" />
+      <img src="https://img.shields.io/badge/Official_Portfolio-jubayer--ahamed.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Official Portfolio - Live Production Site" />
     </a>
   </p>
 
   <!-- Verified Founder Connect & Direct Consultation Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/jubayer-ahamed-pro/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn_Executive-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yVjEwLjlINi40Nk03LjgzIDYuNDVhMS42NCAxLjY0IDAgMCAwLTEuNjQgMS42MyAxLjY0IDEuNjQgMCAwIDAgMS42NCAxLjYzIDEuNjQgMS42NCAwIDAgMCAxLjYzLTEuNjNjMC0uOS0uNzMtMS42My0xLjYzLTEuNjNaIi8%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn_Executive-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yVjEwLjlINi40Nk03LjgzIDYuNDVhMS42NCAxLjY0IDAgMCAwLTEuNjQgMS42MyAxLjY0IDEuNjQgMCAwIDAgMS42NCAxLjYzIDEuNjQgMS42NCAwIDAgMCAxLjYzLTEuNjNjMC0uOS0uNzMtMS42My0xLjYzLTEuNjNaIi8%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn Executive" />
     </a>
     <a href="https://wa.me/8801610594042" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/WhatsApp_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direct" />
     </a>
     <a href="https://www.facebook.com/besmartwithaipro" target="_blank">
       <img src="https://img.shields.io/badge/Agency_Headquarters-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Agency" />
     </a>
     <a href="mailto:jubayer.ahamed.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Direct_Consultation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Direct_Consultation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Consultation" />
     </a>
-  </p>
-
-  <!-- Executive Section Navigation Bar -->
-  <p align="center">
-    <a href="#bio"><code>Bio &amp; Philosophy</code></a> &nbsp;&bull;&nbsp;
-    <a href="#pillars"><code>4 Pillars</code></a> &nbsp;&bull;&nbsp;
-    <a href="#impact"><code>Commercial Impact</code></a> &nbsp;&bull;&nbsp;
-    <a href="#stack"><code>Tech Arsenal</code></a> &nbsp;&bull;&nbsp;
-    <a href="#systems"><code>Flagship Showcase</code></a> &nbsp;&bull;&nbsp;
-    <a href="#telemetry"><code>Telemetry</code></a> &nbsp;&bull;&nbsp;
-    <a href="#consultation"><code>Consultation</code></a>
   </p>
 
 </div>
 
 ---
 
-### <a id="bio"></a>💼 Executive Bio & Architectural Philosophy
+### 💼 Executive Bio & Architectural Philosophy
 
 I am **Jubayer Ahamed**—an **INTJ Solutions Architect**, **Full-Stack Systems Engineer**, and **Technical Mentor** based in Dhaka, Bangladesh. I am the Founder and Lead AI Solutions Architect at **[Be Smart With AI](https://www.facebook.com/besmartwithaipro)**.
 
@@ -64,7 +53,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### <a id="pillars"></a>🏛️ The 4 Core Architectural Pillars
+### 🏛️ The 4 Core Architectural Pillars
 
 | Core Pillar | Strategic Focus & Production Deliverables |
 | :--- | :--- |
@@ -75,7 +64,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### <a id="impact"></a>📈 Proven Commercial Value & Real-World Impact
+### 📈 Proven Commercial Value & Real-World Impact
 
 | Strategic Value Metric | Real-World Business Solution |
 | :--- | :--- |
@@ -85,7 +74,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### <a id="stack"></a>🛠️ Technical Stack & Engineering Arsenal
+### 🛠️ Technical Stack & Engineering Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,js,ts,nodejs,react,nextjs,tailwind,html,css,android,postgres,sqlite,docker,linux,ubuntu,bash,git,github,githubactions,postman,vscode&perline=11" alt="Tech Stack Arsenal" />
@@ -106,11 +95,11 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### <a id="systems"></a>🚀 Enterprise Flagship Systems & Portfolio Showcase
+### 🚀 Enterprise Flagship Systems & Portfolio Showcase
 
 | System / Project | Domain & Stack | Commercial & Technical Highlights |
 | :--- | :--- | :--- |
-| **[🌐 Jubayer Ahamed Portfolio Website](https://github.com/Jubayer-ahamed42/besmartwithai-agency)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000)](https://jubayer-ahamed.vercel.app) | Official Brand Portal &middot; HTML5 / Tailwind / Vanilla JS | High-performance executive personal portfolio and AI solutions showcase. Built with dynamic 2D cursor physics, dual-layer ambient lighting, zero-dependency modal architecture, and 14 production case studies. |
+| **[🌐 Jubayer Ahamed Portfolio Website](https://github.com/Jubayer-ahamed42/besmartwithai-agency)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://jubayer-ahamed.vercel.app) | Official Brand Portal &middot; HTML5 / Tailwind / Vanilla JS | High-performance executive personal portfolio and AI solutions showcase. Built with dynamic 2D cursor physics, dual-layer ambient lighting, zero-dependency modal architecture, and 14 production case studies. |
 | **[📱 B2B AI Sales Engine & Demo Sandbox](https://github.com/Jubayer-ahamed42/b2b-ai-sales-engine)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/whatsapp-ai-sales-web/) | Conversational Commerce &middot; Python / Web Sandbox | Real-time conversational AI sales brain & interactive smartphone simulator (WhatsApp/Messenger style). Validates BD 11-digit phone numbers, answers product catalogs, and automates instant cash-on-delivery (COD) order extraction with zero external dependencies. |
 | **[🧬 Social Humanizer (Open-Source Python Toolkit v0.2.0)](https://github.com/Jubayer-ahamed42/social-humanizer)** | Open Source &middot; Python / CLI / Web Demo | Universal AI Social Media Humanizer & Algorithmic Risk Auditor. Strips robotic AI clichés, enforces natural burstiness ($\\text{CV} = \\sigma / \\mu$), and audits reach suppression rules across Facebook, LinkedIn, X, Threads, and Instagram. Built with Rich CLI and Gradio Web Demo. |
 | **[🌿 Freshy Food E-Commerce](https://github.com/Jubayer-ahamed42/freshy-food)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/freshy-food/) | E-Commerce &middot; Vanilla JS / Tailwind | High-converting organic health food storefront with 1-Click COD checkout, live admin dashboard, embedded Bengali AI Nutritionist chatbot, and Strix OWASP-hardened Google Apps Script dual-sync backend. |
@@ -120,7 +109,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### <a id="telemetry"></a>📊 GitHub Activity & Real-Time Engineering Stats
+### 📊 GitHub Activity & Real-Time Engineering Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Jubayer-ahamed42&theme=tokyonight&hide_border=true&border_radius=10&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak Stats" />
@@ -140,7 +129,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 ---
 
-### <a id="consultation"></a>🤝 Direct Founder Consultation & Inquiries
+### 🤝 Direct Founder Consultation & Inquiries
 
 Whether you are looking to deploy an autonomous conversational sales brain, eliminate manual operational overhead, or architect a custom software platform—let's connect:
 
