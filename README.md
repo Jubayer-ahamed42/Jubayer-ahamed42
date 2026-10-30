@@ -9,11 +9,15 @@
     <b>Architecting autonomous AI & high-ROI software that eliminates business bottlenecks.</b>
   </p>
 
-  <!-- Verified Founder Connect & Portfolio Badges -->
+  <!-- Executive Official Portfolio Portal -->
   <p align="center">
     <a href="https://jubayer-ahamed.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Official_Portfolio-Live_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Vercel Portfolio" />
+      <img src="https://img.shields.io/badge/Official_Portfolio-Live_Production-3b82f6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Official Portfolio - Live Production Site" />
     </a>
+  </p>
+
+  <!-- Verified Founder Connect & Direct Consultation Badges -->
+  <p align="center">
     <a href="https://www.linkedin.com/in/jubayer-ahamed-pro/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn_Executive-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -95,7 +99,7 @@ I bridge commercial strategy and production engineering: designing, building, an
 
 | System / Project | Domain & Stack | Commercial & Technical Highlights |
 | :--- | :--- | :--- |
-| **[🌐 Jubayer Ahamed Portfolio Website](https://github.com/Jubayer-ahamed42/besmartwithai-agency)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://jubayer-ahamed.vercel.app) | Official Brand Portal &middot; HTML5 / Tailwind / Vanilla JS | High-performance executive personal portfolio and AI solutions showcase. Built with dynamic 2D cursor physics, dual-layer ambient lighting, zero-dependency modal architecture, and 14 production case studies. |
+| **[🌐 Jubayer Ahamed Portfolio Website](https://github.com/Jubayer-ahamed42/besmartwithai-agency)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000)](https://jubayer-ahamed.vercel.app) | Official Brand Portal &middot; HTML5 / Tailwind / Vanilla JS | High-performance executive personal portfolio and AI solutions showcase. Built with dynamic 2D cursor physics, dual-layer ambient lighting, zero-dependency modal architecture, and 14 production case studies. |
 | **[📱 B2B AI Sales Engine & Demo Sandbox](https://github.com/Jubayer-ahamed42/b2b-ai-sales-engine)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/whatsapp-ai-sales-web/) | Conversational Commerce &middot; Python / Web Sandbox | Real-time conversational AI sales brain & interactive smartphone simulator (WhatsApp/Messenger style). Validates BD 11-digit phone numbers, answers product catalogs, and automates instant cash-on-delivery (COD) order extraction with zero external dependencies. |
 | **[🧬 Social Humanizer (Open-Source Python Toolkit v0.2.0)](https://github.com/Jubayer-ahamed42/social-humanizer)** | Open Source &middot; Python / CLI / Web Demo | Universal AI Social Media Humanizer & Algorithmic Risk Auditor. Strips robotic AI clichés, enforces natural burstiness ($\\text{CV} = \\sigma / \\mu$), and audits reach suppression rules across Facebook, LinkedIn, X, Threads, and Instagram. Built with Rich CLI and Gradio Web Demo. |
 | **[🌿 Freshy Food E-Commerce](https://github.com/Jubayer-ahamed42/freshy-food)** &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-brightgreen?style=flat-square)](https://jubayer-ahamed42.github.io/freshy-food/) | E-Commerce &middot; Vanilla JS / Tailwind | High-converting organic health food storefront with 1-Click COD checkout, live admin dashboard, embedded Bengali AI Nutritionist chatbot, and Strix OWASP-hardened Google Apps Script dual-sync backend. |
